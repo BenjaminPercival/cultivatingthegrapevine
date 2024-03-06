@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Benjamin Percival
-email: benjamin.percival@liverpool.ac.uk
+email: b.percival@liverpool.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Academic profile and esoterica. An inevitable outcome of living in a society of relentless self-promotion.
 baseurl: "" # the subpath of your site, e.g. /blog
